@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left"><IMAGEM MAIN INTERFACE></p>
+![Main interface](https://github.com/SamuelBozza/projetoMercado/assets/102820398/3f38eaf1-2a10-4582-9e93-6c1b62cdf612)
 
 ###
 
