@@ -8,4 +8,5 @@
 <hr>
 <h2>Como funciona o projeto?</h2>
 <h3>Apos executar o programa você ira para a Interface príncipal onde podera efetuar um Login, Registrar uma conta ou Fechar o programa, para selecionar sua opção basta digitar o numero de qual opção deseja</h3>
-https://prnt.sc/IZtSNOEaydnb
+![image](https://github.com/SamuelBozza/projetoMercado/assets/102820398/d5029c83-875e-49d7-be67-fcad228e88f7)
+
